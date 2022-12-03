@@ -1,0 +1,22 @@
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.csproj.AssemblyReference.cache
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.csproj.SuggestedBindingRedirects.cache
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.csproj.CoreCompileInputs.cache
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\bin\Debug\Student Mangagement System.exe.config
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\bin\Debug\Student Mangagement System.exe
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\bin\Debug\Student Mangagement System.pdb
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.csproj.CopyComplete
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.exe
+C:\Users\omarf\Desktop\C# Program\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.pdb
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\bin\Debug\Student Mangagement System.exe.config
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\bin\Debug\Student Mangagement System.exe
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\bin\Debug\Student Mangagement System.pdb
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.csproj.AssemblyReference.cache
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.csproj.SuggestedBindingRedirects.cache
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.csproj.CoreCompileInputs.cache
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.csproj.CopyComplete
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.exe
+C:\Users\omarf\Desktop\Asthait\project\C# Assignment\Student Mangagement System\Student Mangagement System\obj\Debug\Student Mangagement System.pdb
